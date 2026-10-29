@@ -6,19 +6,6 @@
     width="100%"
   />
 
-  <br/>
-
-  <h1>Hey, I'm Sudhanshu Kumar 👋</h1>
-
-  <h3>AI/ML Engineer | Software Developer | Problem Solver</h3>
-
-  <p><b>BUILD | LEARN | SOLVE | IMPACT</b></p>
-
-  <p>
-    <i>"IF THERE IS EVEN 1% CHANCE, let's fight."</i><br/>
-    — Abhimanyu, Mahabharata
-  </p>
-
   <p>
     <a href="https://github.com/jee-fail">
       <img src="https://img.shields.io/badge/GitHub-jee--fail-181717?style=for-the-badge&logo=github" alt="GitHub"/>
